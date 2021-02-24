@@ -18,7 +18,7 @@
 <img src="images/akestrel.jpg?raw=true"/>
 
 ---
-[Danger Mountain](http://www.github.com/Noah-Prowell/Danger_Mountain)
+[Danger Mountain](https://www.github.com/Noah-Prowell/Danger-Mountain)
 <br><br>
 *Used avalanche data from Davos, Switzerland in the years 1998-2019 to conduct several experiments to infer avalanche sizes based on various factors such as the direction of the face and the snow type on the mountain.  Discovered on average a single increase in the difference in elevation leads to an increase in avalanche area of 199 m2.*
 <br><br>
