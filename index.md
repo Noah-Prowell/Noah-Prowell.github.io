@@ -4,28 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
+<img src="images/southpark_header.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bird Call Identification](http://www.github.com/Noah-Prowell/Bird_call_id)
+<img src="images/akestrel.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Danger Mountain](http://www.github.com/Noah-Prowell/Danger_Mountain)
+<img src="images/1bc71823368e04a6b3ca74c46d9c14a9.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
