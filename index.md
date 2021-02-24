@@ -7,7 +7,7 @@
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
 <br><br>
 *Implemented a retrained GPT2-small and a LSTM generative adversarial network to produce text drawn from South Park script data. I had ~10,000 lines of data per character. I then produced a discriminator to measure which GAN was better, the lower the accuracy the better the GAN. The LSTM GAN scored 100% accuracy, while the retrained GPT2 scored ~59% accuracy. My next step is to train a GPT2-large to get better generated text.*   
-<br><br>
+<br>
 <img src="images/southpark_header.jpg?raw=true"/>
 
 ---
