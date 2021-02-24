@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
 <img src="images/southpark_header.jpg?raw=true"/>
