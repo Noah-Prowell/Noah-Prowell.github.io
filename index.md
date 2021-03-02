@@ -27,7 +27,7 @@
 ---
 [Bitcoing Price Prediction](https://share.streamlit.io/noah-prowell/bitcoin_prediction/main/app.py)
 <br><br>
-*Used bitcoin pricing data to predict day to day whether the price will be going up or down using a random forest model with an 80% accuracy.  As well as a long term prediction using an ARIMA model that shows a 95% confidence interval.  Click the link in the title to view the live app and to make Bitcoin predictions yourself!  Also here is the full github link with more info on my project.[GITHUB](https://github.com/Noah-Prowell/bitcoin_prediction)  
+*Used bitcoin pricing data to predict day to day whether the price will be going up or down using a random forest model with an 80% accuracy.  As well as a long term prediction using an ARIMA model that shows a 95% confidence interval.  Click the link in the title to view the live app and to make Bitcoin predictions yourself!  Also here is the full github link with more info on my project.*[GITHUB](https://github.com/Noah-Prowell/bitcoin_prediction)  
 <img src="images/bitcoin.jpg?raw=true"/>
 
 
