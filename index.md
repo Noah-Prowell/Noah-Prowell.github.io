@@ -13,7 +13,7 @@
 ---
 [Bird Call Identification](http://www.github.com/Noah-Prowell/Bird_call_id)
 <br><br>
-*My data was bird call audio files and had 30-100 bird calls per species. I then converted the audio files into spectrograms which contain all of the data from the audio files in an image that I can train a CNN on. I trained a Tensorflow CNN and in just one week, I was able to achieve 32% accuracy for five classes of bird species. AFter not being satisfied with this result I employed to use of transfer learning to improve my results.  I used the Inception-ResNet V2 model with the pretrained imagenet weights.  Using this I was able to improve my training accuracy to 99% and my validation accuracy to 60% for five classes, which is a huge improvement!  This just shows how powerful these transfer learning models are and how usefull they can be.  I am in the process of training my model on all 254 classes.*
+*My data was bird call audio files and had 30-100 bird calls per species. I then converted the audio files into spectrograms which contain all of the data from the audio files in an image that I can train a CNN on. I trained a Tensorflow CNN and in just one week, I was able to achieve 32% accuracy for five classes of bird species. After not being satisfied with this result I employed the use of transfer learning to improve my results.  I used the Inception-ResNet V2 model with the pretrained imagenet weights.  Using this I was able to improve my training accuracy to 99% and my validation accuracy to 60% for five classes, which is a huge improvement!  This just shows how powerful these transfer learning models are and how useful they can be.  I am in the process of training my model on all 254 classes.*
 <br><br>
 <img src="images/akestrel.jpg?raw=true"/>
 
