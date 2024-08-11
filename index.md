@@ -6,7 +6,7 @@
 <br><br>
 *Repo of Power Bi portfolio projects saved as .pbix files*
 <br>
-<img src="images/streaming_dashboard.png?raw=true"/>
+<img src="images/streaming_dashboard.PNG?raw=true"/>
 ### Recent Projects 
 
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
