@@ -1,7 +1,12 @@
 ## Portfolio
 
 ---
-
+### Power BI
+[Power BI Reports](https://github.com/Noah-Prowell/powerbi)
+<br><br>
+*Repo of Power Bi portfolio projects saved as .pbix files*
+<br>
+<img src="images/streaming_dashboard.png?raw=true"/>
 ### Recent Projects 
 
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
