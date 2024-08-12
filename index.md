@@ -8,6 +8,10 @@
 <br>
 <img src="images/streaming_dashboard.PNG?raw=true"/>
 ### Recent Projects 
+[Snow Report](https://thesnowreports.com)
+<br><br>
+*Passion project website creating cutstom dated graphs of snow depth and snow precipitation for various areas around Colorado. Still in initial builds and will be eventually adding other features such as forecasting.*
+
 
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
 <br><br>
