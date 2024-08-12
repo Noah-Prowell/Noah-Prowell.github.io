@@ -11,7 +11,8 @@
 [Snow Report](https://thesnowreports.com)
 <br><br>
 *Passion project website creating cutstom dated graphs of snow depth and snow precipitation for various areas around Colorado. Still in initial builds and will be eventually adding other features such as forecasting.*
-
+<br>
+<img src="images/Snowing_(201423329).jpeg?raw=true"/>
 
 [South Park GAN's](http://www.github.com/Noah-Prowell/South_Park_GANs)
 <br><br>
