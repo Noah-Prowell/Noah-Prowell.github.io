@@ -7,7 +7,14 @@
 *Repo of Power Bi portfolio projects saved as .pbix files*
 <br>
 <img src="images/streaming_dashboard.PNG?raw=true"/>
-### Recent Projects 
+### Recent Projects
+
+[Gym Calories Analysis](https://github.com/Noah-Prowell/gym_calories_proj)
+<br><br>
+*Data analysis and model to predict gym calories burned during a workout session. Implemented a linear and random forest regressor model to make predictions on 973 rows of workout data.*
+<br>
+<img src="images/gym_photo.jpg?raw=true"/>
+
 [Snow Report](https://thesnowreports.com)
 <br><br>
 *Passion project website creating cutstom dated graphs of snow depth and snow precipitation for various areas around Colorado. Still in initial builds and will be eventually adding other features such as forecasting.*
