@@ -1,6 +1,3 @@
-## Portfolio
-
----
 ### Power BI
 [Power BI Reports](https://github.com/Noah-Prowell/powerbi)
 <br><br>
