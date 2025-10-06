@@ -1,3 +1,20 @@
+### Snow Report
+[Snow Report](https://github.com/Noah-Prowell/snowreport-react)
+The Snow Report is a live web app I built for backcountry skiing enthusiasts who want quick, visual access to snow depth and precipitation data from NOAA.
+
+It started as a personal challenge to combine my love for data science with my passion for the outdoors by turning raw NOAA datasets into something clear, interactive, and genuinely useful for trip planning.
+The site currently features select mountain regions, with more areas being added soon. My goal is to make it easier for skiers, riders, and snow nerds alike to understand real snowpack trends before they head out.
+
+I have a lot of new features on deck including predictive analytics, avalanche information, and live weather! So stay tuned for new updates coming out weekly!
+
+Tech highlights:
+Python + NOAA API for data collection
+React frontend with dynamic visualizations via Calude.ai
+Hosted and deployed on Azure Static Apps
+
+Would love any feedback, especially from those who spend time in the backcountry or work with geospatial data.
+Check it out here 👉 [https://thesnowreport.org](https://github.com/Noah-Prowell/snowreport-react)
+
 ### Power BI
 [Power BI Reports](https://github.com/Noah-Prowell/powerbi)
 <br><br>
